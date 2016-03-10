@@ -244,14 +244,11 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {158990680},--Sudo users
+	    sudo_users = {30373376,161762902,45342395},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/BH-YAGHI/NOD32-BOT.git
 
-channel : @Nod32team
-sodu : @behrooZyaghi
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -517,9 +514,7 @@ NOD32 Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel: @Nod32Team
-
-G00D LUCK ^_^
+ای دی سازندگان ربات :
 ]]
    }
   serialize_to_file(config, './data/config.lua')
