@@ -30,7 +30,4 @@ return {patterns = {
 "عضویت",
 }, run = run}
 
---Copyright and edit; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
---کپی بدون ذکر منبع حرام است
+--HamyarGroupTeam
