@@ -6,7 +6,7 @@ local function callback(extra, success, result)
 end
 
 local function run(msg, matches)
-  local user = 158990680
+  local user = 30373376
 
   if matches[1] == "support" then
     user = 'user#id'..user
@@ -32,7 +32,3 @@ return {
 }
 
 end
---Copyright; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
---کپی بدون ذکر منبع حرام است
