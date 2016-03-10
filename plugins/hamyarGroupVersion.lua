@@ -1,7 +1,7 @@
 do
 
 function run(msg, matches)
-  return 'HAMYARGROUP -----> 1.3'.. VERSION .. [[ 
+  return 'HAMYARGROUP —---> 1.3'.. VERSION .. [[ 
  
 توسع دهنده ربات: @Mhmafi--@ho3yyyn
   
@@ -54,7 +54,7 @@ return {
   description = "Shows bot version", 
   usage = "HG: Shows bot version",
   patterns = {
-    "^HGr$"
+    "^HG$"
   }, 
   run = run 
 }
