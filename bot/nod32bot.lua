@@ -239,7 +239,6 @@ function create_config( )
     "set",
     "spam",
     "stats",
-    "support",
     "server_manager",
     "time",
     "version"
