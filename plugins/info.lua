@@ -242,7 +242,7 @@ do
  	 text = text..'Group name : '..msg.to.title..'\n'		
       text = text..'Group ID : '..msg.to.id		
      end		
-     text = text..'\n@pika_channel'		
+     text = text..'\nربات همیار گروه ورژن 1.3'		
      return send_msg(receiver, text, ok_cb, true)		
      end		
    end		
