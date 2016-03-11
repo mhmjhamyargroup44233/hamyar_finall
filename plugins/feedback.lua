@@ -10,7 +10,7 @@ do
    --like : local chat = "chat#id"..12345678
    
   local sends = send_msg(chat, fuse, ok_cb, false)
-  return 'بازخورد شما ارسال شد'
+  return '✅ پیام شما به تیم پشتیبانی با موفقیت ارسال شد به زودی برسی میگردد'
  
  end
  end
