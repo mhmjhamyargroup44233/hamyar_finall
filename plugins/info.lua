@@ -157,7 +157,7 @@ do
    local um_hash = 'msgs:'..result.from.id..':'..result.to.id		
    user_info_msgs = tonumber(redis:get(um_hash) or 0)		
    text = text..'6-messages sent : '..user_info_msgs..'\n'		
-   text = text..'@pika_channel'		
+   text = text..'ربات همیار گروه ورژن 1.3'		
    send_msg(extra.receiver, text, ok_cb, true)		
  end		
  		
