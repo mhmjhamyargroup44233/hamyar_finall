@@ -317,7 +317,7 @@ This command will send text to [group_id]
 
 ]],
     help_text = [[
-NOD32 Commands list :
+لیست دستورات ربات همیار گروه ورژن 1.3 :
  
 1-banhammer list ^
  
